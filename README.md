@@ -1,2 +1,2 @@
-# zhizi_note
-笔记使用
+# computer-virus
+一些无用的计算机小型病毒
